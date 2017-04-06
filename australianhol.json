@@ -1,0 +1,1218 @@
+{
+  "ausgovEvents": {
+    "jurisdiction": [
+      {
+        "jurisdictionName": "ACT",
+        "dateUpdated": "13/2/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1492178400",
+              "date": "15/04/2017",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1492264800",
+              "date": "16/04/2017",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1497189600",
+              "date": "12/06/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1506261600",
+              "date": "25/09/2017",
+              "holidayTitle": "Family and Community Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1506862800",
+              "date": "02/10/2017",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Boxing Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1520773200",
+              "date": "12/03/2018",
+              "holidayTitle": "Canberra Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1522414800",
+              "date": "31/03/2018",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1522501200",
+              "date": "01/04/2018",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1528639200",
+              "date": "11/06/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1538316000",
+              "date": "01/10/2018",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1538917200",
+              "date": "08/10/2018",
+              "holidayTitle": "Family and Community Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "act",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Boxing Day"
+            }
+          ]
+        }
+      },
+      {
+        "jurisdictionName": "NSW",
+        "dateUpdated": "3/1/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1492178400",
+              "date": "15/04/2017",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1492264800",
+              "date": "16/04/2017",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1497189600",
+              "date": "12/06/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1506862800",
+              "date": "02/10/2017",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Boxing Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1522414800",
+              "date": "31/03/2018",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1522501200",
+              "date": "01/04/2018",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1528639200",
+              "date": "11/06/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1538316000",
+              "date": "01/10/2018",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "nsw",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Boxing Day"
+            }
+          ]
+        }
+      },
+      {
+        "jurisdictionName": "NT",
+        "dateUpdated": "13/2/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1492178400",
+              "date": "15/04/2017",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1493560800",
+              "date": "01/05/2017",
+              "holidayTitle": "May Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1497189600",
+              "date": "12/06/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1502028000",
+              "date": "07/08/2017",
+              "holidayTitle": "Picnic Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Boxing Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1522414800",
+              "date": "31/03/2018",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1525615200",
+              "date": "07/05/2018",
+              "holidayTitle": "May Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1528639200",
+              "date": "11/06/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1533477600",
+              "date": "06/08/2018",
+              "holidayTitle": "Picnic Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1545570000",
+              "date": "24/12/2018",
+              "holidayTitle": "Christmas Eve"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Boxing day"
+            },
+            {
+              "-jurisdiction": "nt",
+              "-year": "2018",
+              "rawDate": "1546174800",
+              "date": "31/12/2018",
+              "holidayTitle": "New Year's Eve"
+            }
+          ]
+        }
+      },
+      {
+        "jurisdictionName": "QLD",
+        "dateUpdated": "14/3/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1492178400",
+              "date": "15/04/2017",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1492264800",
+              "date": "16/04/2017",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1493560800",
+              "date": "01/05/2017",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1506862800",
+              "date": "02/10/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Boxing Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1522414800",
+              "date": "31/03/2018",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1522501200",
+              "date": "01/04/2018",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1525615200",
+              "date": "07/05/2018",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1538316000",
+              "date": "01/10/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "qld",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Boxing Day"
+            }
+          ]
+        }
+      },
+      {
+        "jurisdictionName": "SA",
+        "dateUpdated": "28/3/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1492178400",
+              "date": "15/04/2017",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1497189600",
+              "date": "12/06/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1506862800",
+              "date": "02/10/2017",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1514034000",
+              "date": "24/12/2017",
+              "holidayTitle": "Christmas Eve"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Proclamation Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2017",
+              "rawDate": "1514638800",
+              "date": "31/12/2017",
+              "holidayTitle": "New Year's Eve"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1520773200",
+              "date": "12/03/2018",
+              "holidayTitle": "March public holiday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1522414800",
+              "date": "31/03/2018",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1528639200",
+              "date": "11/06/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1538316000",
+              "date": "01/10/2018",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1545570000",
+              "date": "24/12/2018",
+              "holidayTitle": "Christmas Eve"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Proclamation Day"
+            },
+            {
+              "-jurisdiction": "sa",
+              "-year": "2018",
+              "rawDate": "1546174800",
+              "date": "31/12/2018",
+              "holidayTitle": "New Year's Eve"
+            }
+          ]
+        }
+      },
+      {
+        "jurisdictionName": "TAS",
+        "dateUpdated": "9/2/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "tas",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2017",
+              "rawDate": "1492437600",
+              "date": "18/04/2017",
+              "holidayTitle": "Easter Tuesday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2017",
+              "rawDate": "1497189600",
+              "date": "12/06/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Boxing Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1520773200",
+              "date": "12/03/2018",
+              "holidayTitle": "Eight Hours Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1522677600",
+              "date": "03/04/2018",
+              "holidayTitle": "Easter Tuesday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1528639200",
+              "date": "11/06/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "tas",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Boxing Day"
+            }
+          ]
+        }
+      },
+      {
+        "jurisdictionName": "VIC",
+        "dateUpdated": "13/2/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1492178400",
+              "date": "15/04/2017",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1492264800",
+              "date": "16/04/2017",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1497189600",
+              "date": "12/06/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1506607200",
+              "date": "29/09/2017",
+              "holidayTitle": "AFL Grand Final Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1509973200",
+              "date": "07/11/2017",
+              "holidayTitle": "Melbourne Cup"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Boxing Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1520773200",
+              "date": "12/03/2018",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1522414800",
+              "date": "31/03/2018",
+              "holidayTitle": "Easter Saturday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1522501200",
+              "date": "01/04/2018",
+              "holidayTitle": "Easter Sunday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1528639200",
+              "date": "11/06/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1541422800",
+              "date": "06/11/2018",
+              "holidayTitle": "Melbourne Cup"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "vic",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Boxing Day"
+            }
+          ]
+        }
+      },
+      {
+        "jurisdictionName": "WA",
+        "dateUpdated": "4/1/17",
+        "events": {
+          "event": [
+            {
+              "-jurisdiction": "wa",
+              "-year": "2017",
+              "rawDate": "1492092000",
+              "date": "14/04/2017",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2017",
+              "rawDate": "1492351200",
+              "date": "17/04/2017",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2017",
+              "rawDate": "1493042400",
+              "date": "25/04/2017",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2017",
+              "rawDate": "1496584800",
+              "date": "05/06/2017",
+              "holidayTitle": "Western Australia Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2017",
+              "rawDate": "1506261600",
+              "date": "25/09/2017",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2017",
+              "rawDate": "1514120400",
+              "date": "25/12/2017",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2017",
+              "rawDate": "1514206800",
+              "date": "26/12/2017",
+              "holidayTitle": "Boxing Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1514725200",
+              "date": "01/01/2018",
+              "holidayTitle": "New Year's Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1516885200",
+              "date": "26/01/2018",
+              "holidayTitle": "Australia Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1520168400",
+              "date": "05/03/2018",
+              "holidayTitle": "Labour Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1522328400",
+              "date": "30/03/2018",
+              "holidayTitle": "Good Friday"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1522591200",
+              "date": "02/04/2018",
+              "holidayTitle": "Easter Monday"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1524578400",
+              "date": "25/04/2018",
+              "holidayTitle": "Anzac Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1528034400",
+              "date": "04/06/2018",
+              "holidayTitle": "Western Australia Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1537711200",
+              "date": "24/09/2018",
+              "holidayTitle": "Queen's Birthday"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1545656400",
+              "date": "25/12/2018",
+              "holidayTitle": "Christmas Day"
+            },
+            {
+              "-jurisdiction": "wa",
+              "-year": "2018",
+              "rawDate": "1545742800",
+              "date": "26/12/2018",
+              "holidayTitle": "Boxing Day"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
