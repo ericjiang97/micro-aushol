@@ -14,6 +14,7 @@ Base URL: [https://micro-aushol-iaulyodija.now.sh](https://micro-aushol-iaulyodi
 | `/state/{state}` | Returns events within state |
 
 State Codes:
+
 | Code | State |
 | ---- | ----- |
 | ACT/act  | Australian Capital Teritory |
