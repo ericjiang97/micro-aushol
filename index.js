@@ -5,6 +5,7 @@ var fileS = require('fs');
 function JSONHandler(file){
   try {
       var obj = JSON.parse(fileS.readFileSync(file, 'utf8'));
+
       return obj;
   } catch(e) {
       return false;
@@ -18,15 +19,13 @@ const handleState = async ({ params: { state }, res }) => {
   state = state.toUpperCase()
   try {
     var FileObject = JSONHandler('./australianhol.json')
-    FileObject = FileObject.ausgovEvents
-    for(var i=0; i < FileObject.jurisdiction.length; i++){
-      console.log(FileObject.jurisdiction[i])
-      if(FileObject.jurisdiction[i].jurisdictionName == state){
-          return FileObject.jurisdiction[i] 
-      } else {
-          return null
+    FileObject = FileObject.ausgovEvents.jurisdiction
+    for(var i=0; i <= FileObject.length; i++){
+      if(FileObject[i].jurisdictionName == state){
+          return FileObject[i] 
       }
-    } 
+    }
+    return null 
   } catch (err) {
     // Autos to 404
     return null
