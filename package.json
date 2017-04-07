@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lorderikir/micro-aushol/#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "fs-promise": "^2.0.0",
     "micro": "^7.0.6",
     "micro-api": "^0.1.1"
